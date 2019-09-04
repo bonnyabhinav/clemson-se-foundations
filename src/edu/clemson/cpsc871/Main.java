@@ -2,7 +2,6 @@ package edu.clemson.cpsc871;
 
 import java.util.ArrayList;
 import java.util.List;
-/*Just checking everything is fine*/
 public class Main {
 
     // a simple main program
